@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Certainly, it sounds like you're interested in learning about private matches in the game "Standoff 2." ",
+   "photo1":"https://iili.io/HDUwSqv.webp"},
+  {"desc2":"Private matches in multiplayer games like Standoff 2 offer players the ability to create custom game sessions that are limited to a specific group of players","photo2":"https://iili.io/HDUwggp.webp"},
+  {"desc3":"often with customizable settings and rules. Here's a description of private matches in Standoff 2","photo3":"https://iili.io/HDUw4dN.webp"},
+  {"desc4":"Private matches in Standoff 2 introduce a whole new dimension of gameplay","photo4":"https://iili.io/HDUwU1R.webp"},
+  {"desc5":"Within the private matches of Standoff 2, players have the power to customize various aspects of the game to suit their preferences","photo5":"https://iili.io/HDUw67I.webp"},
+  {"descd":"They can set up specific game modes, map selections, weapon restrictions, and more. Whether players want to engage in classic team deathmatches","photod":"https://iili.io/HDUMimJ.webp"}
    ]
  
 }
